@@ -59,7 +59,6 @@ CamDroid/
 
 ## 📸 Demo Screenshot
 
-> Add screenshots here (e.g., QR scanning, live stream on receiver)
 
 ---
 
@@ -141,10 +140,6 @@ in the Software without restriction...
 
 - Powered by **OpenCV** and **Kivy**
 - Inspired by a need for cable-free webcam streaming
-- Created with ❤️ by **King'sGuard**
+- Created by **King'sGuard**
 
 ---
-
-## ⭐️ Like this project?
-
-Give it a ⭐ on GitHub and share it with others!
