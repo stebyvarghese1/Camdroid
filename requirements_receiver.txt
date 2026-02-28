@@ -1,0 +1,6 @@
+numpy
+opencv-python
+qrcode
+Pillow
+Flask
+PyQt5
