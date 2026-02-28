@@ -29,6 +29,11 @@ The connection is established using a simple, secure **QR Code scan**, after whi
 - **🔄 Camera Switching**: Easily toggle between front and rear cameras on the sender device.
 
 ---
+<div align="center">
+  <img width="754" height="566" alt="Screenshot 2026-02-28 101906" src="https://github.com/user-attachments/assets/53092bb8-a4a2-4ecc-928b-3ad7823cc87d" />
+  <br/><br/>
+  <img width="515" height="786" alt="Screenshot 2026-02-28 101952" src="https://github.com/user-attachments/assets/681cef3e-91cc-438e-9f9a-257168f2cbd7" />
+</div>
 
 ## 🏗️ Architecture Flow
 
@@ -57,8 +62,8 @@ Both the Sender and Receiver have separate requirements to keep dependencies cle
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/camroid.git
-cd camroid
+git clone https://github.com/stebyvarghese1/Camdroid.git
+cd Camdroid
 ```
 
 ### 2. Set up the Receiver (Desktop)
@@ -116,17 +121,7 @@ python sender.py
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome! If you have ideas for minimizing latency, adding audio support, or enhancing the UI, feel free to fork this repository and submit a Pull Request.
-
-1. **Fork** the repository
-2. **Create** your feature branch (`git checkout -b feature/AmazingFeature`)
-3. **Commit** your changes (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** to the branch (`git push origin feature/AmazingFeature`)
-5. **Open** a Pull Request
-
----
 
 ## 📄 License
 
