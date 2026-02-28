@@ -30,9 +30,11 @@ The connection is established using a simple, secure **QR Code scan**, after whi
 
 ---
 <div align="center">
-  <img width="754" height="566" alt="Screenshot 2026-02-28 101906" src="https://github.com/user-attachments/assets/53092bb8-a4a2-4ecc-928b-3ad7823cc87d" />
-  <br/><br/>
-  <img width="515" height="786" alt="Screenshot 2026-02-28 101952" src="https://github.com/user-attachments/assets/681cef3e-91cc-438e-9f9a-257168f2cbd7" />
+
+| 🖥️ Desktop Receiver | 📱 Mobile Sender |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/53092bb8-a4a2-4ecc-928b-3ad7823cc87d" alt="Screenshot Receiver" width="450" /> | <img src="https://github.com/user-attachments/assets/681cef3e-91cc-438e-9f9a-257168f2cbd7" alt="Screenshot Sender" width="300" /> |
+
 </div>
 
 ## 🏗️ Architecture Flow
